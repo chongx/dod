@@ -1,0 +1,23 @@
+{ 
+"name": "termproject", 
+"version": "0.0.1",
+"dependencies": 
+    {
+        "bcrypt": ">=0.7.3",
+        "connect-flash": ">=0.1.0",
+        "connect-mongodb": ">=1.1.5",
+        "express": ">=3.0.3",
+        "fs": ">= 0.0.0",
+        "mime": ">=1.2.7",
+        "mongodb": ">=1.2.0",
+        "mongoose": ">=3.4.0",
+        "passport": ">=0.1.15",
+        "passport-local": ">=0.1.6",
+        "socket.io": ">=0.9.11"
+    },
+"engines": 
+    {
+        "node": "0.8.x",
+        "npm":  "1.1.x"
+    }
+}
