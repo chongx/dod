@@ -3,14 +3,12 @@ Do or Die
 
 A 2D instance platforming mmorpg with rogue-like qualities, grinding, bosses, and pvp.
 
-Basic Ideas
-==
-<li>
-All gameplay happens in an instance (d3 style), each instance is rogue-like
-You decide what to bring into an instance, if you die you lose everything you brought and found (maybe only reveal what loot you got at the end of instance)
-    Infinite loadouts, choose whichever is suitable before entering instance
-    Default loadout is just a sword (so there's no stupid fist fighting when you have an empty inventory)
-    Also cosmetic loadouts
+## Basic Ideas
+- All gameplay happens in an instance (d3 style), each instance is rogue-like
+- You decide what to bring into an instance, if you die you lose everything you brought and found (maybe only reveal what loot you got at the end of instance)
+    - Infinite loadouts, choose whichever is suitable before entering instance
+    - Default loadout is just a sword (so there's no stupid fist fighting when you have an empty inventory)
+    - Also cosmetic loadouts
 Separate loot drops for different players in an instance
 Infinite inventory space (or maybe limited and pay for more hoho)
 Tier-based gear (Tier 1 - Tier 10(?), lowest to highest)
@@ -37,16 +35,14 @@ Consumables can also drop and be traded (also have tiers, each tier increases ef
     Invis pot
 Each additional player in your party increases difficulty, but also more % chance of dropping 2/3/4/5 pieces of loot.
 Maybe have maps that drop at highest normally accessible tier for giving access to next tier and special legendaries like PoE
-</li>
 
-Instance Design
-==
+## Instance Design
 Somewhat dynamically generated map (some basic room building blocks, set of these per tier)
 Boss and boss room are custom designed for every tier
 Random mods for uncommon and rare mobs like in PoE
 Several base mob types for each tier
 
-PVP Possibilities
+## PVP Possibilities
 Can fight 1v1 for ALL gear worn into fight - All or Nothing
     Tier restricted to make it fair, also show gear score of opponent (but not specific loadout)
 Can decide on gear to bet with - Honor Fight
@@ -55,16 +51,16 @@ Team based (no risk), receive points to buy cosmetic items from cosmetic store
 People still like some sort of progression, maybe have 20 levels or so (not too grindy) and put into stats (10 stat points per level) so there is some possibility for customization, then have
 non-combat related leveling system afterwards (like paragon in d3), so each paragon level just gives 3% MF and pretty profile borders or something.
 
-Gear Pieces
+## Gear Pieces
 Helm, Chest, Shoulders, Bracers, Weapon, Offhand, Belt, Pants, Boots
 
-Rarities
+## Rarities
 Normal
 Uncommon
 Rare
 Legendary
 
-Mob Mods
+## Mob Mods
 Fast
 High Damage
 Crit!
@@ -73,7 +69,7 @@ Poison
 Teleport
 Etc
 
-Item Mods
+## Item Mods
 Dmg increase
 Dmg % increase
 Magic Dmg increase
