@@ -1,7 +1,11 @@
 Do or Die
 ==
+
 A 2D instance platforming mmorpg with rogue-like qualities, grinding, bosses, and pvp.
 
+Basic Ideas
+==
+<li>
 All gameplay happens in an instance (d3 style), each instance is rogue-like
 You decide what to bring into an instance, if you die you lose everything you brought and found (maybe only reveal what loot you got at the end of instance)
     Infinite loadouts, choose whichever is suitable before entering instance
@@ -31,12 +35,12 @@ Consumables can also drop and be traded (also have tiers, each tier increases ef
     Mana pot
     Speed pot
     Invis pot
-
 Each additional player in your party increases difficulty, but also more % chance of dropping 2/3/4/5 pieces of loot.
-
 Maybe have maps that drop at highest normally accessible tier for giving access to next tier and special legendaries like PoE
+</li>
 
 Instance Design
+==
 Somewhat dynamically generated map (some basic room building blocks, set of these per tier)
 Boss and boss room are custom designed for every tier
 Random mods for uncommon and rare mobs like in PoE
